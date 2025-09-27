@@ -110,7 +110,7 @@ const App = () => {
       icon: '💼',
       title: 'Experiência Profissional',
       content: [
-        '🏭 VIP Papelão Ondulado (2011 - 2014) - Auxiliar de Produção',
+        '🏭 VIP Papelão Ondulado (2011) - Auxiliar de Produção',
         '⚙️ Eaton Ltda (2015-2016) - Operador de Máquina',
         '🏢 Unilever (2016-presente) - Inspetor de Qualidade'
       ]
