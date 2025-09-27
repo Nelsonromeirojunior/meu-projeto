@@ -19,7 +19,7 @@ const Footer = () => {
 
                     <div className="text-center md:text-right">
                         <p className="mb-2">
-                            Desenvolvido com ❤️ por{' '}
+                            Desenvolvedor Front-End com 🧏🏻‍♂️ por{' '}
                             <span className="text-yellow-400 font-semibold">Nelson Junior</span>
                         </p>
                         <p className="text-blue-200">
